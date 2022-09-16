@@ -7,6 +7,12 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng generate component component-name --project login` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project login`.
 > Note: Don't forget to add `--project login` or else it will be added to the default project in your `angular.json` file. 
 
+
+## Install De
+    <!-- "primeflex": "^2.0.0",
+    "primeicons": "^5.0.0",
+    "primeng": "^13.4.1" -->
+
 ## Build
 
 Run `ng build login` to build the project. The build artifacts will be stored in the `dist/` directory.
